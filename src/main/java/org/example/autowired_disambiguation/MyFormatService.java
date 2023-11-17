@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class MyFormatService {
     private  MyFormatter formatter;
 
-    public MyFormatService(MyFormatter formatter){
+    public MyFormatService(@Qualifier("myDataTimeFormatter") MyFormatter formatter){
         this.formatter = formatter;
     }
 
