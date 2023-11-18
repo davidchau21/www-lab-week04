@@ -10,5 +10,10 @@
 > Configuring Beans in the Container <br>
 > XML-Based Configuration <br>
 
+## ERD Diagram
+> Beans scope
+> 
+![student](img/student.png)
+
 
 
