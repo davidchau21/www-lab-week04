@@ -17,8 +17,8 @@ public class ClientBean {
 
     public void doSomething() throws IOException {
         File file = myResource.getFile();
-        String s = new String(File.readAllBytes(file.toPath()));
-        System.out.println(s);
+//        String s = new String(File.readAllBytes(file.toPath()));
+//        System.out.println(s);
         System.out.println(permission);
     }
 }
