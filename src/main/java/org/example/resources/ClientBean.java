@@ -5,6 +5,7 @@ import org.springframework.beans.factory.annotation.Value;
 import java.io.File;
 import java.io.IOException;
 
+import static java.io.File.*;
 
 
 public class ClientBean {
