@@ -10,6 +10,14 @@
 > Configuring Beans in the Container <br>
 > XML-Based Configuration <br>
 
+
+### :Yêu cầu Project :
+Thực hành tìm hiểu về spring boot
+
+Hiểu được các cách khai báo beans
+
+Hiểu được Object Injection
+
 ## ERD Diagram
 > Spring Beans scope
 > 
